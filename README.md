@@ -6,6 +6,10 @@ A modern full-stack blog platform that allows users to register, log in, and man
 
 ---
 
+## Demo
+- Website link: https://fancy-genie-fbe4dd.netlify.app/
+- Website link: https://blogapplicationbhumika.netlify.app/
+
 ## 🚀 Features
 
 - 🔐 User Authentication (Register, Login, Logout)
