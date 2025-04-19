@@ -9,6 +9,7 @@ A modern full-stack blog platform that allows users to register, log in, and man
 ## Demo
 - Website link: https://fancy-genie-fbe4dd.netlify.app/
 - Website link: https://blogapplicationbhumika.netlify.app/
+- Loom video link: https://www.loom.com/share/c56f6c42afb7466383b89e79cad8a2dd?sid=96497c35-240e-4fa6-aca7-acc8b0ea501b
 
 ## 🚀 Features
 
